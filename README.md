@@ -16,3 +16,11 @@ The large language model is configured using Mistral's base model "Mistral-7B-v0
 
 ---
 
+---
+
+### 3. Tokenizer Configuration
+
+The tokenizer is initialized using the Mistral base model "Mistral-7B-v0.1" with specific configurations. The tokenization includes a maximum model length of 128 tokens, padding on the left side, and the addition of an end-of-sequence (EOS) token. 
+
+---
+
